@@ -1,23 +1,7 @@
-# Just For Linux & Termux
-![DM Script Screen](https://i.ibb.co/r6ww3m6/Screenshot-from-2019-02-21-23-36-40.png)
+![DM Script Screen](https://i.ibb.co/wyJZ24X/Screenshot-from-2019-02-24-01-01-34.png)
 
-# How To Install DM
-
-# linux:
-git clone https://github.com/mostafa-vn/DownloadManager.git && cd DownloadManager && chmod +x dm && sudo mv dm /usr/local/bin
-
-# Termux:
-git clone https://github.com/mostafa-vn/DownloadManager.git
-
-cd DownloadManager
-
-chmod +x dm
-
-# windows:
-comming soon..
-
-# How To Use DM
-dm FileLink NameToSave
+# How To Use FiGiLi
+python3 Text
 ____________________________________________________________________
 contact us:
 
