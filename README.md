@@ -1,7 +1,7 @@
 ![DM Script Screen](https://i.ibb.co/wyJZ24X/Screenshot-from-2019-02-24-01-01-34.png)
 
 # How To Use FiGiLi
-python3 Text
+# python3 Text
 ____________________________________________________________________
 contact us:
 
